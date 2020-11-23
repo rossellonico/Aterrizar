@@ -1,0 +1,23 @@
+C:\Users\Juan23\Desktop\Test de Código\Aterrizar\Aterrizar\bin\Debug\Aterrizar.exe.config
+C:\Users\Juan23\Desktop\Test de Código\Aterrizar\Aterrizar\bin\Debug\Aterrizar.exe
+C:\Users\Juan23\Desktop\Test de Código\Aterrizar\Aterrizar\bin\Debug\Aterrizar.pdb
+C:\Users\Juan23\Desktop\Test de Código\Aterrizar\Aterrizar\obj\Debug\Aterrizar.csprojResolveAssemblyReference.cache
+C:\Users\Juan23\Desktop\Test de Código\Aterrizar\Aterrizar\obj\Debug\Aterrizar.exe
+C:\Users\Juan23\Desktop\Test de Código\Aterrizar\Aterrizar\obj\Debug\Aterrizar.pdb
+C:\Users\Juan23\Desktop\A Distancia\UTN\Parcial\00 - Resolución\Aterrizar\Aterrizar\bin\Debug\Aterrizar.exe.config
+C:\Users\Juan23\Desktop\A Distancia\UTN\Parcial\00 - Resolución\Aterrizar\Aterrizar\obj\Debug\Aterrizar.exe
+C:\Users\Juan23\Desktop\A Distancia\UTN\Parcial\00 - Resolución\Aterrizar\Aterrizar\obj\Debug\Aterrizar.pdb
+C:\Users\Nico\Documents\Estudio\3er Cuatrimestre\Programación III\Clases-Sebastian\Clase 16\Gestión de Vuelos (Con BD)\Proyecto\Aterrizar\Aterrizar\bin\Debug\Aterrizar.exe.config
+C:\Users\Nico\Documents\Estudio\3er Cuatrimestre\Programación III\Clases-Sebastian\Clase 16\Gestión de Vuelos (Con BD)\Proyecto\Aterrizar\Aterrizar\bin\Debug\Aterrizar.exe
+C:\Users\Nico\Documents\Estudio\3er Cuatrimestre\Programación III\Clases-Sebastian\Clase 16\Gestión de Vuelos (Con BD)\Proyecto\Aterrizar\Aterrizar\bin\Debug\Aterrizar.pdb
+C:\Users\Nico\Documents\Estudio\3er Cuatrimestre\Programación III\Clases-Sebastian\Clase 16\Gestión de Vuelos (Con BD)\Proyecto\Aterrizar\Aterrizar\obj\Debug\Aterrizar.csprojAssemblyReference.cache
+C:\Users\Nico\Documents\Estudio\3er Cuatrimestre\Programación III\Clases-Sebastian\Clase 16\Gestión de Vuelos (Con BD)\Proyecto\Aterrizar\Aterrizar\obj\Debug\Aterrizar.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\Estudio\3er Cuatrimestre\Programación III\Clases-Sebastian\Clase 16\Gestión de Vuelos (Con BD)\Proyecto\Aterrizar\Aterrizar\obj\Debug\Aterrizar.exe
+C:\Users\Nico\Documents\Estudio\3er Cuatrimestre\Programación III\Clases-Sebastian\Clase 16\Gestión de Vuelos (Con BD)\Proyecto\Aterrizar\Aterrizar\obj\Debug\Aterrizar.pdb
+D:\Backup 19-07-19\Documents\Estudio-11-10-20\3er Cuatrimestre\Programación III\Clases-Sebastian\Clase 16\Gestión de Vuelos (Con BD)\Proyecto\Aterrizar\Aterrizar\bin\Debug\Aterrizar.exe.config
+D:\Backup 19-07-19\Documents\Estudio-11-10-20\3er Cuatrimestre\Programación III\Clases-Sebastian\Clase 16\Gestión de Vuelos (Con BD)\Proyecto\Aterrizar\Aterrizar\bin\Debug\Aterrizar.exe
+D:\Backup 19-07-19\Documents\Estudio-11-10-20\3er Cuatrimestre\Programación III\Clases-Sebastian\Clase 16\Gestión de Vuelos (Con BD)\Proyecto\Aterrizar\Aterrizar\bin\Debug\Aterrizar.pdb
+D:\Backup 19-07-19\Documents\Estudio-11-10-20\3er Cuatrimestre\Programación III\Clases-Sebastian\Clase 16\Gestión de Vuelos (Con BD)\Proyecto\Aterrizar\Aterrizar\obj\Debug\Aterrizar.csprojAssemblyReference.cache
+D:\Backup 19-07-19\Documents\Estudio-11-10-20\3er Cuatrimestre\Programación III\Clases-Sebastian\Clase 16\Gestión de Vuelos (Con BD)\Proyecto\Aterrizar\Aterrizar\obj\Debug\Aterrizar.csproj.CoreCompileInputs.cache
+D:\Backup 19-07-19\Documents\Estudio-11-10-20\3er Cuatrimestre\Programación III\Clases-Sebastian\Clase 16\Gestión de Vuelos (Con BD)\Proyecto\Aterrizar\Aterrizar\obj\Debug\Aterrizar.exe
+D:\Backup 19-07-19\Documents\Estudio-11-10-20\3er Cuatrimestre\Programación III\Clases-Sebastian\Clase 16\Gestión de Vuelos (Con BD)\Proyecto\Aterrizar\Aterrizar\obj\Debug\Aterrizar.pdb
